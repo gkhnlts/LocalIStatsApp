@@ -1,0 +1,131 @@
+{
+  "": {
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/primary.swiftdeps"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/App/MenuBarManager.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/MenuBarManager.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/MenuBarManager.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/MenuBarManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/MenuBarManager.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/MenuBarManager.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Models/BatteryMonitor.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/BatteryMonitor.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/BatteryMonitor.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/BatteryMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/BatteryMonitor.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/BatteryMonitor.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Models/CPUMonitor.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/CPUMonitor.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/CPUMonitor.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/CPUMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/CPUMonitor.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/CPUMonitor.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Models/DiskMonitor.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/DiskMonitor.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/DiskMonitor.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/DiskMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/DiskMonitor.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/DiskMonitor.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Models/GPUMonitor.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/GPUMonitor.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/GPUMonitor.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/GPUMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/GPUMonitor.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/GPUMonitor.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Models/MemoryMonitor.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/MemoryMonitor.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/MemoryMonitor.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/MemoryMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/MemoryMonitor.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/MemoryMonitor.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Models/NetworkMonitor.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/NetworkMonitor.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/NetworkMonitor.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/NetworkMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/NetworkMonitor.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/NetworkMonitor.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Models/ProcessMonitor.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/ProcessMonitor.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/ProcessMonitor.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/ProcessMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/ProcessMonitor.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/ProcessMonitor.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Models/SensorMonitor.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SensorMonitor.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SensorMonitor.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SensorMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SensorMonitor.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SensorMonitor.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Models/SystemMonitor.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SystemMonitor.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SystemMonitor.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SystemMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SystemMonitor.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SystemMonitor.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Models/WiFiMonitor.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/WiFiMonitor.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/WiFiMonitor.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/WiFiMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/WiFiMonitor.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/WiFiMonitor.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Views/Components/CircularGauge.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/CircularGauge.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/CircularGauge.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/CircularGauge~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/CircularGauge.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/CircularGauge.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Views/Components/GaugeCard.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/GaugeCard.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/GaugeCard.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/GaugeCard~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/GaugeCard.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/GaugeCard.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Views/Components/LiveChart.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/LiveChart.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/LiveChart.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/LiveChart~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/LiveChart.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/LiveChart.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Views/Components/StatRow.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/StatRow.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/StatRow.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/StatRow~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/StatRow.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/StatRow.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Views/PopoverView.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/PopoverView.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/PopoverView.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/PopoverView~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/PopoverView.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/PopoverView.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/Views/SettingsView.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SettingsView.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/SettingsView.dia"
+  },
+  "/Users/gokhan/Documents/Projects/LocalIStatsApp/Sources/main.swift": {
+    "dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/main.d",
+    "object": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/main.swift.o",
+    "swiftmodule": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/main.swiftdeps",
+    "diagnostics": "/Users/gokhan/Documents/Projects/LocalIStatsApp/.build/arm64-apple-macosx/debug/LocalIStats.build/main.dia"
+  }
+}
